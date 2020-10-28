@@ -1,2 +1,3 @@
-# Exercicio-01
-## Listas Exercicio 01 de JavaScript
+# Exercício 01 - Modulo JavaScript.
+
+### Conhecendo o Prompt
